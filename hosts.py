@@ -1,3 +1,8 @@
+"""
+This script is made for Kali system and only test on Kali. It was made to facilitate adding hosts to /etc/hosts file.
+The current version will override the content of the file.
+"""
+
 import sys
 
 hosts = ''
